@@ -1,0 +1,21 @@
+package com.javaDataTypes;
+
+public class Example1 
+{
+
+	public static void main(String[] args)
+	{
+	/**
+	 * Write a java program to print customer information(id, name, address)	
+	 */
+		
+		int customerId = 4483;
+		String customerName = "Pallavi";
+		String customerAddress = "Mumbai";
+		
+		System.out.println(customerId);
+		System.out.println(customerName);
+		System.out.println(customerAddress)
+	}
+
+}
