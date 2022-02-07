@@ -15,6 +15,7 @@ public class Example1 {
 		//Variables initialization
 		studentId = 4483;
 		studentName = "Pallavi";
+		studentMarks = 70.2f ;
 		studentAddress = "Mumbai";
 		
 		System.out.print("Student Id:");
